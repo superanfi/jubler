@@ -1,0 +1,4 @@
+#ignore fiels, for example the virtual environment
+jublerenv/
+docs/build
+docs/source/_templates
