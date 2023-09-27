@@ -15,6 +15,7 @@ This is the guide for Juble users.
    :caption: Getting Started
 
    beforeyoubegin
+   overview
 
 .. toctree::
    :maxdepth: 2
